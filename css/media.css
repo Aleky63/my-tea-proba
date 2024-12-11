@@ -104,12 +104,12 @@
     top: 0;
     left: 0;
     right: 0;
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
-    background-color: aliceblue;
+    background-color: rgb(148, 194, 150);
     display: block;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 50px;
     transition: transform 0.8s ease;
   }
   .menu__list.menu__list--open {
