@@ -31,10 +31,10 @@ ul {
   list-style: none;
 }
 :root {
-  --color-body: #24272c;
+  --color-body: #2d323a;
   --color-white: #ffffff;
-  --color-light_brown: #f0e4d2;
-  --color-input: #b9b682;
+  --color-light_brown: #f3e2c8;
+  --color-input: #c9c584;
   --font-second: "Cormorant", serif;
 }
 .container {
